@@ -1,4 +1,3 @@
-layout_spectrum: 0.5982458095531911
 typography_spectrum: 0.4061786662787199
 color:
   brandStrength: 0.4765166051220149
@@ -6,9 +5,16 @@ color:
   saturation: 0.8480395874939859
   rhythmicContrast: 0.2392465036828071
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#6A6A6A'
+    - '#2FAF7B'
+    - '#00AA55'
+    - '#555555'
+    - '#000000'
+layout_spectrum: 0.5982458095531911
 name: Lenio
+navigation:
+  - name: Donations for Retail Banks
+    id: 15fff5bf-7cf8-41f0-9b6e-9fd8e4700a71
+    type: content
+title: Lenio
+description: Donations for Retail Banks
