@@ -1,0 +1,14 @@
+layout_spectrum: 0.5982458095531911
+typography_spectrum: 0.4061786662787199
+color:
+  brandStrength: 0.4765166051220149
+  lightness: 0.4331520898267627
+  saturation: 0.8480395874939859
+  rhythmicContrast: 0.2392465036828071
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Lenio
