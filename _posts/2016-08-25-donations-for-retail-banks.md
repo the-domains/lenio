@@ -2,18 +2,17 @@
 description: >-
   Lenio Donations solution is a white-label donations technology that integrates
   with existing banking infrastructure and mobile apps.
-dateModified: '2016-08-25T11:13:11.991Z'
-datePublished: '2016-08-25T11:15:04.215Z'
-title: 'Donations for Retail Banks '
+dateModified: '2016-08-25T11:39:18.833Z'
+datePublished: '2016-08-25T11:39:19.555Z'
+title: Donations for Retail Banks
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-25-donations-for-retail-banks.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: donations-for-retail-banks/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/787ccb6d-fa4c-416a-9437-858f6c266d71.jpg)
