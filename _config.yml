@@ -6,9 +6,9 @@ color:
   saturation: 0.8480395874939859
   rhythmicContrast: 0.2392465036828071
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#6A6A6A'
+    - '#2FAF7B'
+    - '#00AA55'
+    - '#555555'
+    - '#000000'
 name: Lenio
